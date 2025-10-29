@@ -12,6 +12,7 @@ test_*.py
 # Output directories
 transcripts/
 transcripts_test/
+channel_videos/
 
 # Temporary files
 *.tmp
