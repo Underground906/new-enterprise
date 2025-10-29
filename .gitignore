@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Test files
+test_*.txt
+test_*.py
+
+# Output directories
+transcripts/
+transcripts_test/
+
+# Temporary files
+*.tmp
+*.log
+
+# Old/deprecated scripts
+fetch_transcripts.py
